@@ -5,7 +5,7 @@ We value
 **Integrated compliance processes over Documentation**  
 **Compliance Data over Paper**  
 **Continuous agile change over change review boards**  
-**Assurance voer Validation**  
+**Assurance over Validation**  
 
 That is, while there is value in the items on
 the right, we value the items on the left more.
